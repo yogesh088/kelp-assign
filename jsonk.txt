@@ -1,0 +1,30 @@
+{
+  "Employees": {
+    "Employee": [
+      {
+        "Name": "Cristiano",
+        "Profession": "Hacker",
+        "Age": "24",
+        "Hobby": "Travelling"
+      },
+      {
+        "Name": "Jenifer",
+        "Profession": "Photographer",
+        "Age": "22",
+        "Hobby": "Cooking"
+      },
+      {
+        "Name": "Simon",
+        "Profession": "Travelling-guide",
+        "Age": "35",
+        "Hobby": "Dancing"
+      },
+      {
+        "Name": "Cristiano Ronaldo",
+        "Profession": "Footballer",
+        "Age": "29",
+        "Hobby": "Singing"
+      }
+    ]
+  }
+}

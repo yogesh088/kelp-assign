@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS users (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(255),
+  profession VARCHAR(255),
+  age INTEGER,
+  hobby VARCHAR(255)
+);
+
+INSERT INTO users (name, profession, age, hobby)
+VALUES ('Cristiano', 'Hacker', 24, 'Travelling'),
+       ('Jenifer', 'Photographer', 22, 'Cooking'),
+       ('Simon', 'Travelling-guide', 35, 'Dancing'),
+       ('Cristiano Ronaldo', 'Footballer', 29, 'Singing');
